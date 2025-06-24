@@ -1,0 +1,27 @@
+
+[
+  {
+    "title": "Team Meeting",
+    "date": "2025-06-24",
+    "time": "10:00 AM",
+    "duration": "1hr"
+  },
+  {
+    "title": "Doctor Appointment",
+    "date": "2025-06-24",
+    "time": "2:00 PM",
+    "duration": "30min"
+  },
+  {
+    "title": "Project Deadline",
+    "date": "2025-06-28",
+    "time": "All Day",
+    "duration": "All Day"
+  },
+  {
+    "title": "Friend's Birthday",
+    "date": "2025-06-26",
+    "time": "--",
+    "duration": "All Day"
+  }
+]
